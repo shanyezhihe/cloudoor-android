@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/apache-mime4j-core-0.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/badgeview.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-cli-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fluent-hc-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/google-http-client-1.10.3-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/google-http-client-android3-1.10.3-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/google-oauth-client-appengine-1.10.0-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/google-oauth-client-java6-1.13.1-beta.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-win-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-ab-4.3-beta2.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-nio-4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/juhe_sdk_v_2_5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/volley.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,104 @@
+# view res/layout/activity_wizard.xml #generated:7
+# view res/layout/weather.xml #generated:8
+# view res/layout/wuye_page_widge.xml #generated:8
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.icloudoor.clouddoor.ChangePhoneActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.icloudoor.clouddoor.ChangePhoneActivityCertiCode { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.icloudoor.clouddoor.ChangePhoneActivityNewNum { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.icloudoor.clouddoor.ChangePhoneActivityOldNum { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.icloudoor.clouddoor.CloudDoorMainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.icloudoor.clouddoor.ConfirmGestureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.icloudoor.clouddoor.ForgetPwdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.icloudoor.clouddoor.ForgetPwdComplete { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.icloudoor.clouddoor.ForgetPwdNewPwd { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.icloudoor.clouddoor.KeyContinue { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.icloudoor.clouddoor.KeyList { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.icloudoor.clouddoor.LauncherActivity { <init>(...); }
+
+# view res/layout/activity_set_gesture.xml #generated:14
+-keep class com.icloudoor.clouddoor.LockIndicatorView { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.icloudoor.clouddoor.Login { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.icloudoor.clouddoor.ModifyPersonalInfo { <init>(...); }
+
+# view res/layout/msg_page.xml #generated:13
+-keep class com.icloudoor.clouddoor.MsgListView { <init>(...); }
+
+# view res/layout/key_continue.xml #generated:164
+-keep class com.icloudoor.clouddoor.MyDatePickerUtilView { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.icloudoor.clouddoor.PersonalInfoDetail { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.icloudoor.clouddoor.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.icloudoor.clouddoor.RegisterComplete { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.icloudoor.clouddoor.ResetPwdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.icloudoor.clouddoor.SetGestureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.icloudoor.clouddoor.SetPersonalInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.icloudoor.clouddoor.SettingDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.icloudoor.clouddoor.ShowPersonalInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.icloudoor.clouddoor.SignActivity { <init>(...); }
+
+# view res/layout/take_picture.xml #generated:10
+-keep class com.icloudoor.clouddoor.TakePicCamSurfaceView { <init>(...); }
+
+# view res/layout/take_picture.xml #generated:14
+-keep class com.icloudoor.clouddoor.TakePicMaskView { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.icloudoor.clouddoor.TakePictureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:167
+-keep class com.icloudoor.clouddoor.TestWebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.icloudoor.clouddoor.UartService { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.icloudoor.clouddoor.VerifyGestureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.icloudoor.clouddoor.WizardActivity { <init>(...); }
+

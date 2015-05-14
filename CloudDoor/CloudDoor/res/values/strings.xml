@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">云门</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searching_key">正在为您搜索~</string>
+    <string name="can_shake_to_open_door">摇一摇可开门</string>
+    <string name="input_right_phone_num">请输入正确的手机号码</string>
+    <string name="diff_pwd">两次输入的密码不一致，请重新输入</string>
+    <string name="wrong_old_pwd">旧密码不正确，请重新输入</string>
+    <string name="login_fail">用户名不存在或者密码不正确，请重新输入</string>
+    <string name="send_too_many_a_day">发送短信数量超出限制(10条/天)</string>
+    <string name="send_too_frequently">发送短信过于频繁</string>
+    <string name="input_wrong_certi_code">验证码错误</string>
+    <string name="certi_code_overdue">验证码已失效，请重新获取</string>
+    <string name="phone_num_have_been_registerred">该手机号已被注册</string>
+    <string name="weak_pwd">密码强度不够，请输入新密码</string>
+    <string name="not_login">用户未登录，请重新登录</string>
+    <string name="unknown_err">未知错误，请重试</string>
+    <string name="have_no_key_authorised">该用户未授权任何门锁信息</string>
+    <string name="downloading_key_list">正在加载钥匙列表</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="ble_not_supported">该设备不支持低功耗蓝牙</string>
+    <string name="bt_not_supported">该设备不支持蓝牙</string>
+    <string name="bt_enabled">蓝牙已开启</string>
+    <string name="door_open">开门</string>
+    <string name="centigrade">&#176;C</string>
+    <string name="title_activity_set_personal_info">SetPersonalInfo</string>
+    <string name="title_activity_personal_info_detail">PersonalInfoDetail</string>
+    <string name="login_ing">正在登录...</string>
+    <string name="title_activity_set_gesture">SetGestureActivity</string>
+    <string name="sign_set_success">手势密码设置成功</string>
+    <string name="sign_input_again">请再绘制一次手势密码</string>
+    <string name="title_activity_verify_gesture">VerifyGestureActivity</string>
+    <string name="sign_verify_success">手势密码正确</string>
+    <string name="sign_verify_fail">手势密码输入错误，请重新输入</string>
+    <string name="wrong_params">参数错误</string>
+    <string name="plz_input_name">请输入姓名</string>
+    <string name="plz_input_nickname">请输入昵称</string>
+    <string name="plz_input_id">请输入身份证号码</string>
+    <string name="plz_input_birthday">请输入生日信息</string>
+    <string name="title_activity_show_personal_info">ShowPersonalInfo</string>
+    <string name="dot">&#183;</string>
+    <string name="title_activity_modify_personal_info">ModifyPersonalInfo</string>
+    <string name="title_activity_take_picture">TakePictureActivity</string>
+    <string name="title_activity_test_web_view">TestWebViewActivity</string>
+    <string name="open_door_success">开门成功</string>
+    <string name="open_door_fail">开门失败，请靠近重新连接</string>
+    <string name="low_android_version">系统版本过低，无法使用BLE</string>
+    <string name="scanning">正在扫描</string>
+
+</resources>
